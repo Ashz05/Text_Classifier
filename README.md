@@ -14,12 +14,6 @@ This project demonstrates how to use the Hugging Face 🤗 Transformers library 
  
 - [Overview](#overview)
 - [Installation](#installation)
-- [Quickstart](#quickstart)
-- [Example Usage](#example-usage)
-- [API](#api)
-- [Performance](#performance)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
