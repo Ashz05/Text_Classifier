@@ -5,7 +5,7 @@ This project demonstrates how to use the Hugging Face 🤗 Transformers library 
 ---
 # Project Title
 
->🧠 Sentiment Analysis using DistilBERT (SST-2 Fine-Tuned)
+> Sentiment Analysis using DistilBERT (SST-2 Fine-Tuned)
 
 This project demonstrates how to use the Hugging Face 🤗 Transformers library with the model distilbert/distilbert-base-uncased-finetuned-sst-2-english for sentiment analysis.
 
