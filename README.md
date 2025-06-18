@@ -1,12 +1,10 @@
 # 🧠 Sentiment Analysis using DistilBERT (SST-2 Fine-Tuned)
-_____________________________________________________________
 
 This project demonstrates how to use the Hugging Face 🤗 Transformers library with the model [`distilbert/distilbert-base-uncased-finetuned-sst-2-english`](https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english) for sentiment analysis. The model is a lightweight version of BERT, fine-tuned on the Stanford Sentiment Treebank v2 (SST-2) for binary sentiment classification (positive or negative).
 
 ---
 
 ## 📌 Table of Contents
-_________________________
 
 - [Overview](#overview)
 - [Installation](#installation)
@@ -20,7 +18,6 @@ _________________________
 ---
 
 ## 📝 Overview
-____________________
 
 The SST-2 dataset is widely used for training sentiment classifiers. This project allows you to:
 
@@ -31,7 +28,7 @@ The SST-2 dataset is widely used for training sentiment classifiers. This projec
 ---
 
 ## ⚙️ Working
-______________________
+
 >First get the dataset from HuggingFace and Transform the data using Transform
 
 >Now download all the required libraries
