@@ -1,0 +1,6 @@
+Input your review comment,Sentiment Analyzer,timestamp
+I liked the quality of this product,"[{'label': 'POSITIVE', 'score': 0.9998283386230469}]",2025-06-18 12:22:32.694744
+"I didn't like this product. 
+","[{'label': 'NEGATIVE', 'score': 0.9976100921630859}]",2025-06-18 12:25:08.932103
+Genuine product.,"[{'label': 'POSITIVE', 'score': 0.9998732805252075}]",2025-06-18 12:25:20.813436
+normal product.,"[{'label': 'POSITIVE', 'score': 0.9748886823654175}]",2025-06-18 12:26:00.741650
