@@ -28,11 +28,14 @@ The SST-2 dataset is widely used for training sentiment classifiers. This projec
 ---
 
 ## ⚙️ Installation
+>First get the dataset from HuggingFace and Transform the data using Transform
 
-''' 
-First get the dataset from HuggingFace and Transform the data using Transform ,
-Now download all the required libraries ,
-The Transformed dataset is used to Classify the text and analyse the sentiment,
-Use Gradio for User-interface, 
-Use matplotlib to plot the data and ensure the data set is ploted on to the graph
+>Now download all the required libraries
+
+>qThe Transformed dataset is used to Classify the text and analyse the sentiment
+
+>Use Gradio for User-interface
+
+>Use matplotlib to plot the data and ensure the data set is ploted on to the graph
+
 '''
